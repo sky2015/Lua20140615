@@ -1,0 +1,21 @@
+People = {}
+
+--function People.sayHi()
+--  print("People say Hi")
+--end
+
+function clone(tab)
+  local self = {}
+	for key, var in pairs(tab) do
+		self[key] = var
+	end
+	return self
+end
+
+People.sayHi = function ()
+	print("People say Hi")
+end
+
+local p = clone(People)
+p.sayHi()
+

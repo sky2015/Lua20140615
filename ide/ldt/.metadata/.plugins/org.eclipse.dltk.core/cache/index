@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="12" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/Users/Sky/Developer/Github/Lua20140615/ide/ldt/lua01/src" timestamp="1402829712000" lastAccessTime="1402830067943">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1505475595/1.idx"/>
+  </entries>
+  <entries path="/Users/Sky/Developer/Github/Lua20140615/ide/ldt/lua02Table/src" timestamp="1402843187000" lastAccessTime="1402843444572">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/863692083/3.idx"/>
+  </entries>
+  <entries path="/Users/Sky/Developer/Github/Lua20140615/ide/ldt/lua03Array/src" timestamp="1402843953000" lastAccessTime="1402844439709">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2936231783/5.idx"/>
+  </entries>
+  <entries path="/Users/Sky/Developer/Github/Lua20140615/ide/ldt/lua04OO1/src" timestamp="1402845265000" lastAccessTime="1402846196722">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2381370405/7.idx"/>
+  </entries>
+  <entries path="/Users/Sky/Developer/Github/Lua20140615/ide/ldt/lua05OO2/src" timestamp="1402846691000" lastAccessTime="1402846971965">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2890261242/9.idx"/>
+  </entries>
+  <entries path="/Users/Sky/Developer/Github/Lua20140615/ide/ldt/lua01/src/main.lua" timestamp="1402830067000" lastAccessTime="1402875723609">
+    <attributes name="indexed" location="2838196607/1221821373/11.idx"/>
+  </entries>
+</cache:CacheIndex>

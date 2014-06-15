@@ -1,0 +1,11 @@
+--print("Hello Lua")
+
+num = 100
+print(num)
+
+local num1 = 10
+print(num1)
+
+function sayHello()
+	print("Hello Lua")
+end

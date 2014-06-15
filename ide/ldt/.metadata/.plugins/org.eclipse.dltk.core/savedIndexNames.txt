@@ -1,0 +1,5 @@
+/Users/Sky/Developer/Github/Lua20140615/ide/ldt/.metadata/.plugins/org.eclipse.dltk.core/2157333372.index
+/Users/Sky/Developer/Github/Lua20140615/ide/ldt/.metadata/.plugins/org.eclipse.dltk.core/3822696441.index
+/Users/Sky/Developer/Github/Lua20140615/ide/ldt/.metadata/.plugins/org.eclipse.dltk.core/3261890854.index
+/Users/Sky/Developer/Github/Lua20140615/ide/ldt/.metadata/.plugins/org.eclipse.dltk.core/2670718531.index
+/Users/Sky/Developer/Github/Lua20140615/ide/ldt/.metadata/.plugins/org.eclipse.dltk.core/55991319.index

@@ -1,0 +1,5 @@
+Config = {}
+
+Config.word = "Hello"
+
+print(Config.word)
